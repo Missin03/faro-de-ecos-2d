@@ -15,6 +15,7 @@ Recoge los cinco fragmentos de luz (10 puntos cada uno) para recuperar la luz de
 ## Descargas
 - [Proyecto Unity completo (.zip)](descargas/FaroDeEcos2D_Proyecto_Unity.zip): Scripts, Prefabs, Animator Controllers, clips, escenas, UI y audio.
 - [Versión para Windows (.zip)](descargas/FaroDeEcos2D_Windows.zip)
+- [Video del R3 (26 s)](descargas/FaroDeEcos2D_R3_video.mp4): botón → parámetro `Abierta` → animación `Door_Open` → Animation Event con sonido.
 
 ## Estructura del proyecto
 - `Assets/Scripts`: `Entidad` (clase base abstracta) e `IDaniable`; `Personaje`, `Enemigo`, `Proyectil`, `Interactuable`, `Puerta`, `Coleccionable`, `GestorJuego`, `GestorUI` y `ControladorJugador` (R2).
